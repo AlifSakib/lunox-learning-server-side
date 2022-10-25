@@ -1,0 +1,49 @@
+[
+  {
+    "image": "https://i.ibb.co/195P7sW/php-programming-html-coding-cyberspace-concept.jpg",
+    "title": "Cyber Security",
+    "category": "Cyber Security",
+    "category_id": "06"
+  },
+
+  {
+    "image": "https://i.ibb.co/PmFgxPK/SL-103020-37400-03.jpg",
+    "title": "Cyber Security",
+    "category": "Data Science",
+    "category_id": "01"
+  },
+  {
+    "image": "https://i.ibb.co/4jZ7zRG/19362653.jpg",
+    "title": "Cyber Security",
+    "category": "Arts and Humanities",
+    "category_id": "04"
+  },
+
+  {
+    "image": "https://i.ibb.co/qCj8RdL/4421964.jpg",
+    "title": "Business",
+    "category": "Business",
+    "category_id": "02"
+  },
+
+  {
+    "image": "https://i.ibb.co/ChJzpD6/4884785.jpg",
+    "title": "Cyber Security",
+    "category": "Math and Logic",
+    "category_id": "05"
+  },
+
+  {
+    "image": "https://i.ibb.co/s3btKBc/6554783.jpg",
+    "title": "Cyber Security",
+    "category": "Information Technology",
+    "category_id": "03"
+  },
+
+  {
+    "image": "https://i.ibb.co/9p5Kb5B/556.jpg",
+    "title": "Cyber Security",
+    "category": "Data Science",
+    "category_id": "01"
+  }
+]

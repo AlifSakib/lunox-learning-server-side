@@ -1,0 +1,8 @@
+[
+  { "tiitle": "Data Science", "id": "01" },
+  { "tiitle": "Business", "id": "02" },
+  { "tiitle": "Information Technology", "id": "03" },
+  { "tiitle": "Arts and Humanities", "id": "04" },
+  { "tiitle": "Math and Logic", "id": "05" },
+  { "tiitle": "Cyber Security", "id": "06" }
+]
