@@ -1,8 +1,8 @@
 [
-  { "tiitle": "Data Science", "id": "01" },
-  { "tiitle": "Business", "id": "02" },
-  { "tiitle": "Information Technology", "id": "03" },
-  { "tiitle": "Arts and Humanities", "id": "04" },
-  { "tiitle": "Math and Logic", "id": "05" },
-  { "tiitle": "Cyber Security", "id": "06" }
+  { "title": "Data Science", "category_id": "01", "id": 1 },
+  { "title": "Business", "category_id": "02", "id": 2 },
+  { "title": "Information Technology", "category_id": "03", "id": 3 },
+  { "title": "Arts and Humanities", "category_id": "04", "id": 4 },
+  { "title": "Math and Logic", "category_id": "05", "id": 5 },
+  { "title": "Cyber Security", "category_id": "06", "id": 6 }
 ]

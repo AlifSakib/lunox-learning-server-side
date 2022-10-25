@@ -1,49 +1,63 @@
 [
   {
-    "image": "https://i.ibb.co/195P7sW/php-programming-html-coding-cyberspace-concept.jpg",
-    "title": "Cyber Security",
+    "image": "https://i.ibb.co/gDpfmvK/php-programming-html-coding-cyberspace-concept.jpg",
+    "title": "The Complete Cyber Security Course : Hackers Exposed!",
     "category": "Cyber Security",
-    "category_id": "06"
+    "category_id": "06",
+    "id": 1,
+    "description": "An advanced practical skillset in defeating all online threats - advanced hackers, trackers, malware and all Internet nastiness including mitigating government spying and mass surveillance."
   },
 
   {
     "image": "https://i.ibb.co/PmFgxPK/SL-103020-37400-03.jpg",
-    "title": "Cyber Security",
+    "title": "Introduction to Natural Language Processing (NLP)",
     "category": "Data Science",
-    "category_id": "01"
+    "category_id": "01",
+    "id": 2,
+    "description": "Work with text data using the Natural Language Tool Kit.Load and manipulate custom text data.Analyze text to discover, sentiment, important key words, and statistics."
   },
   {
     "image": "https://i.ibb.co/4jZ7zRG/19362653.jpg",
-    "title": "Cyber Security",
+    "title": "Hack The Worlds Best Martial Arts And Pressure Points",
     "category": "Arts and Humanities",
-    "category_id": "04"
+    "category_id": "04",
+    "id": 3,
+    "description": "Learn The Worlds Deadliest Fighting Styles For Inflicting Pain, Ending Fights Fast, And Defending Against The Unexpected, Develop super human ability to withstand any blows no matter how powerful! An extremely rare form exposed under the risk of a Death Oath!"
   },
 
   {
     "image": "https://i.ibb.co/qCj8RdL/4421964.jpg",
-    "title": "Business",
+    "title": "Chief Financial Officer Leadership Program",
     "category": "Business",
-    "category_id": "02"
+    "category_id": "02",
+    "id": 4,
+    "description": "An ever expanding program of courses helping financial professionals aspire to the top levels of financial leadership, Analyze financial statements to gain deeper insight into the financial results, profitability, financial strength, and cash return generation potential.In this course, you will be able to facilitatte development of an Enterprise Risk Management system using the principles of the COSO ERM framework."
   },
 
   {
     "image": "https://i.ibb.co/ChJzpD6/4884785.jpg",
-    "title": "Cyber Security",
+    "title": "Master Discrete Mathematics: Sets, Math Logic, and More",
     "category": "Math and Logic",
-    "category_id": "05"
+    "category_id": "05",
+    "id": 5,
+    "description": "Master Discrete Mathematics: Learn and master all of Discrete Math - Logic, Set Theory, Combinatorics, Graph Theory, Etc Most Complete Course on Discrete Math offered on Udemy Fully Understand Mathematical Logic Grasp the Complex Topic of Counting for Advanced Mathematics"
   },
 
   {
     "image": "https://i.ibb.co/s3btKBc/6554783.jpg",
-    "title": "Cyber Security",
+    "title": "The Absolute Beginners Guide to Information Technology 2022",
     "category": "Information Technology",
-    "category_id": "03"
+    "category_id": "03",
+    "id": 6,
+    "description": "Gain a solid foundation knowledge of all 4 main branches of Information Technology Basic Networking skills How the Internet works How to build a very basic web page Computer Networking technologies"
   },
 
   {
     "image": "https://i.ibb.co/9p5Kb5B/556.jpg",
-    "title": "Cyber Security",
+    "title": "Statistics / Data Analysis in SPSS: Inferential Statistics",
     "category": "Data Science",
-    "category_id": "01"
+    "category_id": "01",
+    "id": 7,
+    "description": "In this course, you will gain proficiency in how to analyze a number of statistical procedures in SPSS.You will learn how to interpret the output of a number of different statistical testsLearn how to write the results of statistical analyses using APA format"
   }
 ]
