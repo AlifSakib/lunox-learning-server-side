@@ -10,7 +10,8 @@
     "lecture": "24",
     "duration": "30",
     "enrolled": "200",
-    "language": "English"
+    "language": "English",
+    "price": 80
   },
 
   {
@@ -24,7 +25,8 @@
     "lecture": "30",
     "duration": "80",
     "enrolled": "120",
-    "language": "English"
+    "language": "English",
+    "price": 100
   },
   {
     "image": "https://i.ibb.co/4jZ7zRG/19362653.jpg",
@@ -37,7 +39,8 @@
     "lecture": "18",
     "duration": "40",
     "enrolled": "80",
-    "language": "Spanish"
+    "language": "Spanish",
+    "price": 40
   },
 
   {
@@ -51,7 +54,8 @@
     "lecture": "20",
     "duration": "38",
     "enrolled": "100",
-    "language": "English"
+    "language": "English",
+    "price": 60
   },
 
   {
@@ -65,7 +69,8 @@
     "lecture": "50",
     "duration": "20",
     "enrolled": "90",
-    "language": "Spanish"
+    "language": "Spanish",
+    "price": 50
   },
 
   {
@@ -79,7 +84,8 @@
     "lecture": "40",
     "duration": "30",
     "enrolled": "60",
-    "language": "English"
+    "language": "English",
+    "price": 30
   },
 
   {
@@ -93,6 +99,7 @@
     "lecture": "30",
     "duration": "25",
     "enrolled": "100",
-    "language": "English"
+    "language": "English",
+    "price": 70
   }
 ]
