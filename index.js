@@ -12,8 +12,17 @@ app.get("/", (req, res) => {
   res.send("Lunox is Working. . .");
 });
 
-app.get;
+app.get("/courses", (req, res) => {
+  res.send(courses);
+});
 
+app.get("/courses/category/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCatagory = courses.filter(
+    (course) => course.category_id === id
+  );
+  res.send(selectedCatagory);
+});
 app.listen(port, () => {
   console.log(`Server is running on port : ${port} `);
 });
