@@ -26,6 +26,12 @@ app.get("/course/:id", (req, res) => {
   res.send(selectedCourse);
 });
 
+app.get("/course/checkout/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedCourse = courses.find((course) => course.id === id);
+  res.send(selectedCourse);
+});
+
 app.get("/courses/category/:id", (req, res) => {
   const id = req.params.id;
   const selectedCatagory = courses.filter(
