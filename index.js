@@ -39,6 +39,7 @@ app.get("/courses/category/:id", (req, res) => {
   );
   res.send(selectedCatagory);
 });
+
 app.listen(port, () => {
   console.log(`Server is running on port : ${port} `);
 });
